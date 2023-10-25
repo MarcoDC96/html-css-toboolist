@@ -9,11 +9,12 @@
 }
 
 .bg-white2 {
-    
+    background-color: white;
     margin-top: 30px;
     margin-left: 300px;
     padding-left: 40px;
     padding-top: 20px;
+    padding-bottom: 20px;
 
 }
 
@@ -81,6 +82,36 @@
     width: 20px;
     height: 15px;
     background-color: rgb(220, 130, 13);
+    border-radius:10px;
+    padding: 5px;
+    margin-left: 5px;
+    font-size: smaller;
+}
+
+.seventh-figure{
+    width: 20px;
+    height: 15px;
+    background-color: rgb(220, 130, 13);
+    border-radius:10px;
+    padding: 5px;
+    margin-left: 5px;
+    font-size: smaller;
+}
+
+.eighth-figure{
+    width: 20px;
+    height: 15px;
+    background-color: violet;
+    border-radius:10px;
+    padding: 5px;
+    margin-left: 5px;
+    font-size: smaller;
+}
+
+.ninth-figure{
+    width: 20px;
+    height: 15px;
+    background-color: rgb(90, 230, 39);
     border-radius:10px;
     padding: 5px;
     margin-left: 5px;
