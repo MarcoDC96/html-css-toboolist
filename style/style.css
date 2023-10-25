@@ -26,7 +26,7 @@
     width: 40px;
     height: 30px;
     border: 2px solid rgb(118, 213, 240);
-    border-radius: 10%;
+    border-radius: 10px;
     padding: 5px;
     }
 
@@ -34,7 +34,55 @@
     width: 40px;
     height: 30px;
     border: 2px solid black;
-    border-radius: 10%;
+    border-radius: 10px;
     margin-left: 5px;
     padding: 5px;
+}
+
+.check{
+    color: rgb(6, 192, 6);
+}
+
+.fault{
+    color: red;
+}
+
+.trd-figure{
+    width: 20px;
+    height: 15px;
+    background-color: rgb(118, 213, 240);
+    border-radius:10px;
+    padding: 5px;
+    margin-left: 5px;
+    font-size: smaller;
+}
+
+.fourth-figure{
+    width: 20px;
+    height: 15px;
+    background-color: rgb(122, 4, 122);
+    border-radius:10px;
+    padding: 5px;
+    margin-left: 5px;
+    font-size: smaller;
+}
+
+.fifth-figure{
+    width: 20px;
+    height: 15px;
+    background-color: rgb(5, 142, 39);
+    border-radius:10px;
+    padding: 5px;
+    margin-left: 5px;
+    font-size: smaller;
+}
+
+.sixth-figure{
+    width: 20px;
+    height: 15px;
+    background-color: rgb(220, 130, 13);
+    border-radius:10px;
+    padding: 5px;
+    margin-left: 5px;
+    font-size: smaller;
 }
