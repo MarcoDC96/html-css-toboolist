@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-white {
+    background-color: rgb(252, 251, 251);
+}
+
+.bg-white2 {
+    
+    margin-top: 30px;
+    margin-left: 300px;
+    padding-left: 40px;
+    padding-top: 20px;
+
+}
+
+.bg-grey {
+    background-color: rgb(236, 232, 232);
+}
+
+.fst-figure {
+    background-color: rgb(118, 213, 240);
+    width: 40px;
+    height: 30px;
+    border: 2px solid rgb(118, 213, 240);
+    border-radius: 10%;
+    padding: 5px;
+    }
+
+.scd-figure{
+    width: 40px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 10%;
+    margin-left: 5px;
+    padding: 5px;
+}
